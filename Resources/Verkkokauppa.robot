@@ -30,8 +30,11 @@ Hold
 Open Second Product Information
     Product.Choose Second Product
 
-Add Product To Cart
+Add Product To Shopping Cart
     Cart.Add Product To Cart
+
+Verify Page Loaded
+    Product.Verify Page Loaded Two
 
 
 

@@ -13,4 +13,3 @@ Submit Search
 
 Search For Other Product
     Input text  css=#app > div > div.main > header > div > nav > div > div.search-field > input.search-field__query.search-field__query--input.search-field__query--empty  ${SEARCH_TERM_SECOND}
-

@@ -34,9 +34,10 @@ Add Product To Shopping Cart
     [Tags]  Cart
     Verkkokauppa.Enter The Page
     Verkkokauppa.Search For Second Product
-    Click Search Button
+    Verkkokauppa.Click Search Button
     Verkkokauppa.Open Second Product Information
-    Verkkokauppa.Add Product To Cart
+    Verkkokauppa.Verify Page Loaded
+    Verkkokauppa.Add Product To Shopping Cart
     Verkkokauppa.Hold
 
 
